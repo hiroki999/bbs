@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+html,body{
+  font-family: verdana,Arial,sans-serif,meiryo;
+  background-color: #FFFCD1;
+  color: #1e1e1e;
+}
+
+#container{
+  margin: 60px;
+}
+
+h1 {
+  margin: 0;
+  padding: 0;
+}
+
+input.button{
+	text-align:center;
+	font-size:90%;
+	width:50px;
+	margin:10px auto 0;
+}
